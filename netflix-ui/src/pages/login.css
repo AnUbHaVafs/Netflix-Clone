@@ -1,0 +1,38 @@
+.form-container {
+    gap: 10px;
+    height: 85vh;
+}
+
+.form1 {
+
+    padding: 10px;
+    background-color: #000000b0;
+    width: 25vw;
+    gap: 20px;
+    color: white;
+
+}
+
+
+.button2 {
+
+    padding: 10px 10px;
+    background-color: #e50914;
+    border: none;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+    font-weight: bolder;
+    font-size: 15px;
+}
+
+.conatiner {
+    gap: 10px;
+
+}
+
+.input2 {
+    padding: 10px 10px;
+    width: 250px;
+
+}
